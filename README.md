@@ -99,8 +99,8 @@ Flask-based NLP app that scores resumes using BERT and GPT and suggests improvem
 ## 🏆 Achievements
 
 - 🧠 **HackerRank Coding Excellence**  
-  - 5⭐ in Python and C++  
-  - Hackos Score: 4677 – Top-tier performance  
+  - 5⭐ in Python,C++,SQl,JS,Java 
+  - Achived a high hackos score – Top-tier performance  
 - 🥇 **State Gold Medalist in Wrestling**  
   - Selected for **National Junior Championship** (Patna, 2022)  
 - 🧪 **Python Bootcamp by LEPES @ LPU**  
@@ -114,7 +114,7 @@ Flask-based NLP app that scores resumes using BERT and GPT and suggests improvem
 
 **🎓 Lovely Professional University, Punjab**  
 *B.Tech in Computer Science and Engineering*  
-Aug 2022 – Jul 2026 | CGPA: 7.62  
+Aug 2022 – Jul 2026 
 
 **🏫 Sri Chaitanya Junior College, AP**  
 *Intermediate (MPC Stream)*  
