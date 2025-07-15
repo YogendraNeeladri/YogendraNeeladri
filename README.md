@@ -17,11 +17,12 @@
 
 ## 💼 About Me
 
-- 🎓 B.Tech CSE student at Lovely Professional University (2022–2026)  
-- 💡 Passionate about Full Stack Development & AI  
-- 💻 Problem-solving enthusiast on HackerRank & LeetCode  
-- 🥇 Gold Medalist & National-level Wrestler  
-- 📚 Completed 10+ certifications in Web, DSA, Python, Node.js, and more
+- 🎓 B.Tech CSE student at **Lovely Professional University** (2022–2026) | CGPA: 7.62  
+- 💡 Passionate about Full Stack Web Development and Applied AI  
+- 🛠️ Strong in DSA, JavaScript, React, Node.js, MongoDB  
+- 🥇 National-level Wrestler | State Gold Medalist  
+- 🎯 Problem-solving enthusiast with a top Hackos score on HackerRank  
+- 📚 Lifelong learner with 10+ technical certifications
 
 ---
 
@@ -36,42 +37,92 @@
 **Backend & Frameworks:**  
 `Node.js` `Express.js` `Flask` `MongoDB` `MySQL`
 
-**Tools:**  
-`Git/GitHub` `Figma` `Jupyter Notebook` `VS Code` `Postman`
+**Tools & Platforms:**  
+`Figma` `Git/GitHub` `Jupyter Notebook` `UI/UX Design` `Postman` `VS Code`
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Maa Emporium](https://github.com/YogendraNeeladri/MaaEmporium)
-> Full-featured fashion eCommerce site using React and Node.js
-
-### 🔹 [Online Fuel Services](https://github.com/YogendraNeeladri/E-Commerce-Website-Frontend-Backend-Online-Fuel-Services)
-> Online fuel delivery platform with real-time tracking and IoT integration
-
-### 🔹 [NY Fashion (UI/UX)](https://github.com/YogendraNeeladri/NY-Fashion-UI-UX)
-> Designed modern responsive fashion shopping UI using Figma
+### 👗 [Maa Emporium](https://github.com/YogendraNeeladri/MaaEmporium)  
+Full-featured fashion eCommerce site for fashion, jewelry, and accessories using React and Node.js.  
+**Tech:** ReactJS, NodeJS, HTML, CSS, JavaScript  
 
 ---
 
-## 📜 Certificates
+### ⛽ [Online Fuel Services](https://github.com/YogendraNeeladri/E-Commerce-Website-Frontend-Backend-Online-Fuel-Services)  
+An IoT-enabled platform for online fuel delivery with real-time tracking, automated routing, and scheduling.  
+**Tech:** Node.js, Express.js, MongoDB, Bootstrap, HBS  
 
-- 🟢 [SAP Solution Design – SAP (July 2025)](https://www.coursera.org/account/accomplishments/verify/5G8LKXRCE8BH)
-- ☁️ [Cloud Computing – NPTEL (Nov 2024)](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S167020308604433082.pdf)
-- ⚛️ [React Frontend – Coursera](https://www.coursera.org/account/accomplishments/verify/5RFIPEPOFDDA)
-- ⚙️ [Node.js – Coursera](https://www.coursera.org/account/accomplishments/verify/NDJPRD2VZ4LK)
-- 🤖 [Prompt Engineering – Coursera](https://www.coursera.org/account/accomplishments/verify/P3CU666RRTW5)
-- 🔁 [DSA Using C – EBox](https://apipro.e-box.co.in/course/previewCourseCompletionCertificate?code=98bd472c-b6a2-4be0-aa94-6afcf8130c3b)
+---
 
-> ✅ See full list in my LinkedIn or GitHub pinned repositories!
+### 🎨 [NY Fashion UI/UX](https://github.com/YogendraNeeladri/NY-Fashion-UI-UX)  
+Designed a mobile-responsive Figma-based UI for a fashion eCommerce site with strong UX heuristics.  
+**Tech:** Figma, UI/UX Design, Adobe XD  
+
+---
+
+### 🍔 [FastFoodFactory – Laravel Food Ordering System](https://github.com/YogendraNeeladri/FastFoodFactory-laravel)  
+A Laravel-based food court ordering system for college campus environments.  
+**Features:**  
+- User registration/login  
+- Food menu browsing & dynamic cart  
+- Vendor order management system  
+- Admin dashboard with analytics  
+**Tech:** Laravel, PHP, MySQL, Blade, HTML, CSS, Bootstrap   
+
+---
+
+### 🤖 [AI Resume Checker](https://github.com/YogendraNeeladri/AIResumeChecker) 
+Flask-based NLP app that scores resumes using BERT and GPT and suggests improvements.  
+**Tech:** Flask, Python, MongoDB, HTML, Bootstrap, BERT  
+
+---
+
+## 📜 Certifications
+
+| Certificate Title | Platform | Date |
+|------------------|----------|------|
+| [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/5G8LKXRCE8BH) | SAP | Jul 2025 |
+| [Cloud Computing](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S167020308604433082.pdf) | NPTEL | Nov 2024 |
+| [Developing Frontend Apps with React JS](https://www.coursera.org/account/accomplishments/verify/5RFIPEPOFDDA) | Coursera | Nov 2024 |
+| [Server Side JavaScript with Node JS](https://www.coursera.org/account/accomplishments/verify/NDJPRD2VZ4LK) | Coursera | Apr 2024 |
+| [ChatGPT Playground for Beginners](https://www.coursera.org/account/accomplishments/verify/CSV6WPTF7EM7) | Coursera | Apr 2024 |
+| [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/P3CU666RRTW5) | Coursera | Feb 2024 |
+| [DSA - Deep Dive Using C](https://apipro.e-box.co.in/course/previewCourseCompletionCertificate?code=98bd472c-b6a2-4be0-aa94-6afcf8130c3b) | E-Box | Jun 2024 |
+| [DSA Mastery Specialization](https://www.coursera.org/account/accomplishments/specialization/ZLR4AL88EGUQ) | Coursera | Nov 2023 |
+| [C++ for Beginners](https://www.coursera.org/account/accomplishments/verify/CSV6WPTF7EM7) | Coursera | Oct 2023 |
+| [Complete Python Bootcamp](https://www.coursera.org/account/accomplishments/specialization/KHB48PZ7NF8F) | Udemy | Jan 2023 |
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 **HackerRank**: Best Hackos score with 5⭐ in Python & C++
-- 🥇 **State Gold Medal** in Wrestling (Selected for Nationals)
-- 📜 **Python Bootcamp**: 30-hr certified course from LEPSES, LPU
+- 🧠 **HackerRank Coding Excellence**  
+  - 5⭐ in Python and C++  
+  - Hackos Score: 4677 – Top-tier performance  
+- 🥇 **State Gold Medalist in Wrestling**  
+  - Selected for **National Junior Championship** (Patna, 2022)  
+- 🧪 **Python Bootcamp by LEPES @ LPU**  
+  - 30-hour intensive hands-on workshop  
+- 💻 **Built 10+ Full Stack Projects** during B.Tech  
+- 🏅 **Dean’s List Scholar** – Top 10% performers at LPU (via AMCAT, CoCubes, Hitbullseye, etc.)
+
+---
+
+## 🎓 Education
+
+**🎓 Lovely Professional University, Punjab**  
+*B.Tech in Computer Science and Engineering*  
+Aug 2022 – Jul 2026 | CGPA: 7.62  
+
+**🏫 Sri Chaitanya Junior College, AP**  
+*Intermediate (MPC Stream)*  
+Jun 2020 – Mar 2022 | Percentage: 97.2%  
+
+**🏫 Sun School, Srikakulam, AP**  
+*Matriculation (10th Grade)*  
+Jun 2019 – Mar 2020 | Percentage: 100%
 
 ---
 
@@ -86,8 +137,8 @@
 
 ## 📫 Let's Connect
 
-If you’re into tech, sports, or collaboration — reach out via [LinkedIn](https://www.linkedin.com/in/yogendra-neeladri-37b60224b/) or [Email](mailto:yogiyadav1970@gmail.com) 🤝
+If you’re into tech, startups, AI, or even sports — reach out via [LinkedIn](https://www.linkedin.com/in/yogendra-neeladri-37b60224b/) or [Email](mailto:yogiyadav1970@gmail.com) 🤝
 
 ---
 
-*Thank you for visiting my profile! 🙏*
+*Thank you for visiting my GitHub Profile! Keep Building 🚀*
