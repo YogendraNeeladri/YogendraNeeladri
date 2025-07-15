@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-- 🎓 B.Tech CSE student at **Lovely Professional University** (2022–2026) | CGPA: 7.62  
+- 🎓 B.Tech CSE student at **Lovely Professional University** (2022–2026)  
 - 💡 Passionate about Full Stack Web Development and Applied AI  
 - 🛠️ Strong in DSA, JavaScript, React, Node.js, MongoDB  
 - 🥇 National-level Wrestler | State Gold Medalist  
