@@ -90,9 +90,9 @@ Flask-based NLP app that scores resumes using BERT and GPT and suggests improvem
 | [ChatGPT Playground for Beginners](https://www.coursera.org/account/accomplishments/verify/CSV6WPTF7EM7) | Coursera | Apr 2024 |
 | [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/P3CU666RRTW5) | Coursera | Feb 2024 |
 | [DSA - Deep Dive Using C](https://apipro.e-box.co.in/course/previewCourseCompletionCertificate?code=98bd472c-b6a2-4be0-aa94-6afcf8130c3b) | E-Box | Jun 2024 |
-| [DSA Mastery Specialization](https://www.coursera.org/account/accomplishments/specialization/ZLR4AL88EGUQ) | Coursera | Nov 2023 |
-| [C++ for Beginners](https://www.coursera.org/account/accomplishments/verify/CSV6WPTF7EM7) | Coursera | Oct 2023 |
-| [Complete Python Bootcamp](https://www.coursera.org/account/accomplishments/specialization/KHB48PZ7NF8F) | Udemy | Jan 2023 |
+| [DSA Mastery Specialization](https://www.coursera.org/account/accomplishments/specialization/KHB48PZ7NF8F) | Coursera | Nov 2023 |
+| [C++ for Beginners](https://www.coursera.org/account/accomplishments/specialization/ZLR4AL88EGUQ) | Coursera | Oct 2023 |
+| [Python](https://www.udemy.com/certificate/UC-41b99bd9-2289-4178-8304-9b81f3e7dd21/) | Udemy | Jan 2023 |
 
 ---
 
