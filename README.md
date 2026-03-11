@@ -19,7 +19,7 @@
 
 - 🎓 B.Tech CSE student at **Lovely Professional University** (2022–2026)  
 - 💡 Passionate about Full Stack Web Development and Applied AI  
-- 🛠️ Strong in DSA, JavaScript, React, Node.js, MongoDB  
+- 🛠️ Strong in DSA, JavaScript, React, Node.js, MongoDB, Salesforce  
 - 🥇 National-level Wrestler | State Gold Medalist  
 - 🎯 Problem-solving enthusiast with a top Hackos score on HackerRank  
 - 📚 Lifelong learner with 10+ technical certifications
