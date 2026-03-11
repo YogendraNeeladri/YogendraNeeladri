@@ -29,19 +29,13 @@
 ## 🎓 Training / Internships
 
 • **Salesforce Developer Training – HCLTech @ Lovely Professional University (Dec 2025 – Feb 2026)**  
-  Completed hands-on training in Salesforce development including Apex programming, Lightning Platform, data modeling, and CRM concepts, with exposure to real-world Salesforce applications.
-
-• **SAP Analytics Cloud Training – Data Analyst Certification (Mar 2026)**  
-  Successfully completed the SAP Certified – Data Analyst – SAP Analytics Cloud program, gaining knowledge in data visualization, analytics, and cloud-based business intelligence.
+  Completed hands-on training in Salesforce development including Apex programming, Lightning Platform, data modeling, and CRM concepts, with exposure to real-world Salesforce applications
 
 • **Summer Training – DSA Deep Dive Using C (E-Box) (May 2024 – Jun 2024)**  
   Intensive training focused on algorithm design, recursion, dynamic programming, divide and conquer, and implementation of data structures such as stacks, queues, trees, and graphs.
 
 • **Python Bootcamp – LEPES @ Lovely Professional University (Mar 2023)**  
   Completed a 30-hour hands-on workshop covering fundamental and advanced Python programming concepts.
-
-• **Hands-on Development Practice During Training Programs**  
-  Applied programming and analytical concepts through practical exercises, problem-solving tasks, and real-world case studies across multiple training programs.
 
 ---
 
