@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeladri Yogendra</h1>
-<h3 align="center">Aspiring Full Stack Developer | National Wrestler | CSE @ LPU</h3>
+<h3 align="center">Aspiring Full Stack Developer | Salesforce Developer | National Wrestler | CSE @ LPU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yogendra-neeladri-37b60224b/" target="_blank">
@@ -26,10 +26,29 @@
 
 ---
 
+## 🎓 Training / Internships
+
+• **Salesforce Developer Training – HCLTech @ Lovely Professional University (Dec 2025 – Feb 2026)**  
+  Completed hands-on training in Salesforce development including Apex programming, Lightning Platform, data modeling, and CRM concepts, with exposure to real-world Salesforce applications.
+
+• **SAP Analytics Cloud Training – Data Analyst Certification (Mar 2026)**  
+  Successfully completed the SAP Certified – Data Analyst – SAP Analytics Cloud program, gaining knowledge in data visualization, analytics, and cloud-based business intelligence.
+
+• **Summer Training – DSA Deep Dive Using C (E-Box) (May 2024 – Jun 2024)**  
+  Intensive training focused on algorithm design, recursion, dynamic programming, divide and conquer, and implementation of data structures such as stacks, queues, trees, and graphs.
+
+• **Python Bootcamp – LEPES @ Lovely Professional University (Mar 2023)**  
+  Completed a 30-hour hands-on workshop covering fundamental and advanced Python programming concepts.
+
+• **Hands-on Development Practice During Training Programs**  
+  Applied programming and analytical concepts through practical exercises, problem-solving tasks, and real-world case studies across multiple training programs.
+
+---
+
 ## 🔧 Tech Stack
 
 **Languages:**  
-`C` `C++` `JavaScript` `Python` `SQL`
+`C` `C++` `JavaScript` `Python` `SQL` `Apex`
 
 **Frontend:**  
 `HTML` `CSS` `Bootstrap` `React JS`
@@ -38,7 +57,7 @@
 `Node.js` `Express.js` `Flask` `MongoDB` `MySQL`
 
 **Tools & Platforms:**  
-`Figma` `Git/GitHub` `Jupyter Notebook` `UI/UX Design` `Postman` `VS Code`
+`Figma` `Git/GitHub` `Salesforce` `UI/UX Design` `Postman` `VS Code`
 
 ---
 
@@ -59,6 +78,12 @@ An IoT-enabled platform for online fuel delivery with real-time tracking, automa
 ### 🎨 [NY Fashion UI/UX](https://github.com/YogendraNeeladri/NY-Fashion-UI-UX)  
 Designed a mobile-responsive Figma-based UI for a fashion eCommerce site with strong UX heuristics.  
 **Tech:** Figma, UI/UX Design, Adobe XD  
+
+---
+
+### 🏥 Hospital Appointment, Billing & Patient Support System
+Developed a Salesforce-based hospital management application that automates appointment scheduling, billing, and patient support workflows to improve operational efficiency and patient experience.
+Tech: Salesforce CRM, Apex, Salesforce Flow, Data Modeling, Reports & Dashboards
 
 ---
 
@@ -83,6 +108,7 @@ Flask-based NLP app that scores resumes using BERT and GPT and suggests improvem
 
 | Certificate Title | Platform | Date |
 |------------------|----------|------|
+| [SAP Certified – Data Analyst – SAP Analytics Cloud](https://www.credly.com/badges/734dfb2b-8f4b-4c60-bfd7-c820d008bb9e) | SAP | Mar 2026 |
 | [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/5G8LKXRCE8BH) | SAP | Jul 2025 |
 | [Cloud Computing](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S167020308604433082.pdf) | NPTEL | Nov 2024 |
 | [Developing Frontend Apps with React JS](https://www.coursera.org/account/accomplishments/verify/5RFIPEPOFDDA) | Coursera | Nov 2024 |
@@ -99,14 +125,23 @@ Flask-based NLP app that scores resumes using BERT and GPT and suggests improvem
 ## 🏆 Achievements
 
 - 🧠 **HackerRank Coding Excellence**  
-  - 5⭐ in Python,C++,SQl,JS,Java 
-  - Achived a high hackos score – Top-tier performance  
+  - 5⭐ in Python, C++, SQL, JavaScript, Java  
+  - Achieved a high Hackos score – Top-tier performance  
+
+- ☁️ **Salesforce Trailblazer Achievement**  
+  - Completed **Salesforce Developer Training with HCLTech @ Lovely Professional University**  
+  - Earned **107 Trailhead Badges**, **78K+ Trailhead Points**, and completed **11 Trails**
+
 - 🥇 **State Gold Medalist in Wrestling**  
   - Selected for **National Junior Championship** (Patna, 2022)  
+
 - 🧪 **Python Bootcamp by LEPES @ LPU**  
-  - 30-hour intensive hands-on workshop  
+  - Completed a **30-hour intensive hands-on Python workshop**
+
 - 💻 **Built 10+ Full Stack Projects** during B.Tech  
-- 🏅 **Dean’s List Scholar** – Top 10% performers at LPU (via AMCAT, CoCubes, Hitbullseye, etc.)
+
+- 🏅 **Dean’s List Scholar – Lovely Professional University**  
+  - Ranked in the **Top 10% performers** through assessments such as AMCAT, CoCubes, Hitbullseye, and MyPerfectice
 
 ---
 
