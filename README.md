@@ -75,9 +75,9 @@ Designed a mobile-responsive Figma-based UI for a fashion eCommerce site with st
 
 ---
 
-### 🏥 Hospital Appointment, Billing & Patient Support System
-Developed a Salesforce-based hospital management application that automates appointment scheduling, billing, and patient support workflows to improve operational efficiency and patient experience.
-Tech: Salesforce CRM, Apex, Salesforce Flow, Data Modeling, Reports & Dashboards
+### 🏥 [Hospital Appointment, Billing & Patient Support System](https://github.com/YogendraNeeladri/HABPS-SYSTEM)  
+Developed a Salesforce-based hospital management application that automates appointment scheduling, billing, and patient support workflows to improve operational efficiency and patient experience.  
+**Tech:** Salesforce CRM, Apex, Salesforce Flow, Data Modeling, Reports & Dashboards.  
 
 ---
 
